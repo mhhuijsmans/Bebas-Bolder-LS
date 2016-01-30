@@ -1,7 +1,9 @@
 # Bebas Bolder LS
 For LockHTML3. On jailbroken iOS devices only.
 
+Bebas Neue is a free font and can be found at: http://www.fontsquirrel.com/fonts/bebas-NEUE
 
+Font is also included.
 
 **Installation instructions**
 
