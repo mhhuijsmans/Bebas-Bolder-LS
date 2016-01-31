@@ -8,6 +8,7 @@ Font is also included.
 **Installation instructions**
 
 Download the entire folder and copy it to your device. Location is: data/var/mobile/Library/
+
 Widget and options (color and opacity) can be set at the LockHTML3 settings tab.
 
 
